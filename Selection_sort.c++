@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//function
 void swap(int &a, int &b) {
     int c = a;
     a = b;
