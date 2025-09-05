@@ -12,8 +12,11 @@ vector<int> acmTeam(vector<string> topic) {
                 c=k;
                 team=1;
             }
+                
             else if(k==c) team++;
         }
     }
     return {c,team};
+
+
 }
