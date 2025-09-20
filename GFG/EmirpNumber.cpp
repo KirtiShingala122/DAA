@@ -12,7 +12,7 @@ class Solution {
     }
             return true;
   }
-  
+  //
     vector<int> EmirpNumbers(int N) {
         // Code here
         vector<int> ans;
